@@ -12,7 +12,7 @@ The **AI Shopping Assistant** acts as a virtual assistant inside Telegram. It co
 
 This project shows how conversational AI can improve user engagement and simplify the shopping process by making it interactive and accessible directly from messaging platforms.
 
----
+
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ This project shows how conversational AI can improve user engagement and simplif
 - ⚡ Fast and responsive responses  
 - 🔍 Smart query understanding  
 
----
+
 
 ## 🏗️ Architecture / Workflow
 
@@ -37,7 +37,6 @@ The workflow of the AI shopping assistant is simple:
 
 This creates a seamless **conversational shopping experience**.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -47,21 +46,9 @@ This creates a seamless **conversational shopping experience**.
 - API Integrations  
 - Automation workflows  
 
----
 
 ## 📸 Project Screenshot
 
 Add your project screenshot here.
 
 ![AI Shopping Assistant Screenshot](https://github.com/swathi-0611/Building-Ai-Shopping-Assistant-in-Telegram/blob/main/Screenshot%202026-03-04%20185435.png)
-
-*(Replace `screenshot.png` with your actual screenshot file name if different.)*
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/swathi-0611/Building-Ai-Shopping-Assistant-in-Telegram.git
